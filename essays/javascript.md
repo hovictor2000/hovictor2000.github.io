@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Learning JavaScript in a weekend
+title: Learning JavaScript in a Weekend
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-30
 labels:
@@ -13,4 +13,4 @@ labels:
 <img class="ui tiny left circular floated image" src="../images/js.png">
 
 ## Weekend Bootcamp
-To do
+It was a fine Saturday morning 

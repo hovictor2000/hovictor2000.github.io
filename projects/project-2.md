@@ -1,25 +1,25 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/sudoku.png
+title: Sudoku Solver
+permalink: projects/project-2
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-11-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Recursion
+summary: I made a sudoku solver that used recursion for my computer science class.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/sudoku.png">
+</div>
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+  One of the assignments I was assigned while learning recursion was to make a sudoku solver. The code to make the board and check the final result was provided, so I needed to create the functions required to solve the sudoku board. To do this, I made two functions, one for checking the legal values of a given tile in a sudoku boad, and another to solve the board using recursion. The algorithm I chose was backtracking, having the program try a legal value and then try to solve the rest of the board, and if an error occurs, then it'll backtrack until it can try a different value. 
+  This assignment was very tough for me at the time, as recursion was something that was still very new to me, and it was hard to wrap my head around it. My initial solution was very slow, as the function I used to check legal values would check the entire board, which as you can guess is very slow as to check the entire board, you have to check every single tile inside it. For an n x n sudoku board, this meant that it would run O(n^2) times everytime the function was called, and the function needed to be called everytime at least once for every empty tile in the sudoku board to solve. Therefore my first implementation took over an hour to solve a hard sudoku board. I fixed it so that it'll only check the same row and 4x4 section it's in, which lowers the runtime to O(n), and as a result, it only took around 10 minutes to solve the board that took my first implementation one hour. This served as a nice lesson on how fast runtime can grow for inefficient algorithms.
+  
+Source code at [https://github.com/hovictor2000/sudoku-solver](https://github.com/hovictor2000/sudoku-solver).
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+

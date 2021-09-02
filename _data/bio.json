@@ -79,63 +79,36 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "University of Hawaii at Manoa",
+      "position": "Reserach Assistant",
+      "website": "https://www.uhmdatascienceteam.com/",
+      "startDate": "2029-10-01",
+      "endDate": "2021-08-23",
+      "summary": "Assist Professor Monique in gathering and working with data related to the COVID-19 pandemic.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Used Python’s pandas library to clean SafeGraph datasets and analyze mobility between zip codes.",
+        "Analyzed daily COVID case data and trends with a team.",
+        "Created simple visualizations of COVID-19 data usingPython’s Matplotlib library and Excel.",
+        "Updated the Wix made website and created the weekly quizzes."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "University of Hawaii at Manoa Hamilton Library",
+      "position": "Student Assistant",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2018-07-01",
+      "endDate": "Present",
+      "summary": "Help patrons and maintain the general functions of the 5th floor in Hamilton library.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "2018-Present",
+      "awarder": "University of Hawaii Manoa",
+      "summary": "Award given to undergraduate students who earn a GPA of 3.5 or higher based on 12 credits or more."
     }
   ],
   "references": [

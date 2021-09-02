@@ -13,7 +13,7 @@ labels:
 summary: I processed data from a SafeGraph dataset to gain insight on where people visited in Hawaii during the COVID-19 pandemic.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/coviddata.png">
 </div>
 

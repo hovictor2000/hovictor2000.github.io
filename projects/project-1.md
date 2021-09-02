@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/coviddata.png
 title: Hawaii COVID-19 Mobility Data
-permalink: projects/micromouse
+permalink: projects/project-1
 # All dates must be YYYY-MM-DD format!
 date: 2020-11-15
 labels:

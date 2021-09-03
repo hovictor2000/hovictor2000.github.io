@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/coviddata.png
+image: images/covid-front.jpg
 title: Hawaii COVID-19 Mobility Data
 permalink: projects/project-1
 # All dates must be YYYY-MM-DD format!

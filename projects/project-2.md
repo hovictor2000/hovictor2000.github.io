@@ -5,7 +5,7 @@ image: images/sudoku-front.png
 title: Sudoku Solver
 permalink: projects/project-2
 # All dates must be YYYY-MM-DD format!
-date: 2020-11-15
+date: 2020-08-17
 labels:
   - Java
   - Recursion

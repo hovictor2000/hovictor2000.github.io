@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/records.png
+image: images/records-front.png
 title: Consumer Records Database
 permalink: projects/project-3
 # All dates must be YYYY-MM-DD format!

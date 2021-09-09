@@ -11,7 +11,7 @@ labels:
 ---
 
 <img class="ui medium left circular floated image" src="../images/js.png">
-Last weekend in my software engineering class, we were given the task of learning the syntax of JavaScript over the weekend. Here's my thoughts of both the language, and the "Atheletic Software Engineering" approach that's behind all of this.
+Last weekend in my software engineering class, we were given the task of learning the syntax of JavaScript over the weekend. Here's my thoughts on both the language, and the "Athletic Software Engineering" approach that's behind all of this.
 <br>
 <br>
 <br>

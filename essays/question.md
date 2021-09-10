@@ -19,8 +19,5 @@ labels:
 
 ## Examples
 
-WORK IN PROGRESS
-
-stupid question - https://stackoverflow.com/questions/69125199/how-do-i-rotate-these-rectangles-to-the-right-in-javascript
-
-smart - https://stackoverflow.com/questions/17125632/html5-canvas-rotate-object-without-moving-coordinates
+  To demonstrate this concept, I have two examples. One is a smart question that has led to a very good answer, and the other is not so smart with an answer that probably helped no one. For the smart question I have this [post](https://stackoverflow.com/questions/17125632/html5-canvas-rotate-object-without-moving-coordinates), which had the poster struggling with rotating a rectangle to the correct position. He asked his question about as good as you can ask one. He presented his problem clearly and concisely, and provided pictures so that you can see exactly what went wrong. He also provided a short snippet of code, which was formatted nicely and easy to understand. In that post, he got a phenomenal answer that explained what he did wrong, and provided an indepth solution with some code that they wrote themselves.
+  On the other end, we have this [question](https://stackoverflow.com/questions/69125199/how-do-i-rotate-these-rectangles-to-the-right-in-javascript), also about rotating rectangles, but asked in a much worse way. The first thing that you'll notice is a large blob of text that is more about the class that they're taking than the problem that they're facing. Even if you were to decipher what they're asking, you'll notice that they copied and pasted their code in plain text. This made the already hard to read question impossible to read. They were lucky enough that someone still tried to help them, but the answer they provided was just a guess on what the poster was struggling with. They even mention in the answer that they want a better explanation of the problem with better formatting on the code so that they can understand the question better.

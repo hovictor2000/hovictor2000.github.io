@@ -94,7 +94,7 @@
       "website": "https://www.uhmdatascienceteam.com/",
       "startDate": "2029-10-01",
       "endDate": "2021-08-23",
-      "summary": "Assist Professor Monique in gathering and working with data related to the COVID-19 pandemic.",
+      "summary": "Assisted Professor Monique in gathering and working with data related to the COVID-19 pandemic.",
       "highlights": [
         "Used Python’s pandas library to clean SafeGraph datasets and analyze mobility between zip codes.",
         "Analyzed daily COVID case data and trends with a team.",

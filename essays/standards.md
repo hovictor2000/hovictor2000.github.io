@@ -13,11 +13,6 @@ labels:
 <img class="ui medium left circular floated image" src="../images/eslint.png">
 Recently, I have been following the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) to style my JavaScript code, and checking for errors using ESLint. Here are my thoughts. Coding standards in general are really valuable in ensuring that anyone can understand your code, but people often overlook how coding standards can reinforce good habits and actually teach you about the language.
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 ## Reinforcement
 The biggest thing that I've noticed while using ESLint was how it reinforces good coding habits. I admit that without something to check my code, I sometimes get lazy and don't format my code appropriately. For example, I might write something like `arr[i+1]` instead of the more readable `arr[i + 1]`, which is something I find myself doing a lot if I'm helping a friend or testing something out, and it ends up leaking into code that I will submit. However, with ESLint, seeing the red underline annoys you enough that you are willing to go back and rewrite your code for the small gratification of the red line going away. Then, when you finally fix all the little errors in your code and see the green checkmark in the top right, you get the feeling of relief now that you know that you are finally done. This reinforces the habit of making sure your code is nice and presentable.
 ## Learning

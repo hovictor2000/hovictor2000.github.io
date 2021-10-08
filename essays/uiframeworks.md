@@ -10,7 +10,7 @@ labels:
   - UI Frameworks
 ---
 
-<img class="ui medium left circular floated image" src="../images/semantic.png">
+<img class="ui medium left floated image" src="../images/semantic.png">
 
 This week I have been lucky enough to learn about web design in my software engineering class. Last week we learned about HTML/CSS, and as someone who has only learned more backend technologies such as Java or Python, learning the technologies that make up the websites I use everyday has been very eye opening. Now we are learning about UI frameworks, with exercises in Semantic finishing up this week, and a React module coming in the next.
 <br>

@@ -63,7 +63,12 @@
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "React",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "Meteor"
       ]
     },
     {
@@ -78,10 +83,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Mathematics (expected Spring, 2022), GPA 3.9/4.0",
+      "area": "Mathematics, Minor - Computer Science, GPA 3.9/4.0",
       "studyType": "B.A.",
       "startDate": "2018-09-01",
-      "endDate": "Present",
+      "endDate": "2022-05-22",
       "gpa": "3.97",
       "courses": [
       ]

@@ -37,7 +37,7 @@ Learn More -
 
 
 
-[GitHub.io page](https://surfers-spot.github.io/)
+[github.io page](https://surfers-spot.github.io/)
 
 
 

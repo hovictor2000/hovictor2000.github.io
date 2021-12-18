@@ -15,7 +15,7 @@ summary: Web app for finding surf breaks in Hawaii, built with a team as my fina
 ---
 
 ## Overview
-<div class="ui medium rounded images">
+<div class="ui huge rounded images">
   <img class="ui image" src="../images/website.png">
 </div>
 
@@ -23,7 +23,7 @@ As the final project for my software engineering class, we were tasked with crea
 
 ## My Contribution
 
-<div class="ui medium rounded images">
+<div class="ui huge rounded images">
   <img class="ui image" src="../images/directory.png">
 </div>
 

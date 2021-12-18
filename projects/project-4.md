@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/records-front.png
-title: Consumer Records Database
+image: images/surf.png
+title: Surf Breaks App
 permalink: projects/project-4
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-17
@@ -14,18 +14,18 @@ labels:
 summary: Web app for finding surf breaks in Hawaii, built with a team as my final project in ICS 314.
 ---
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/surf.png">
-</div>
-
 ## Overview
-<img class="ui medium left circular floated image" src="../images/website.png">
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/website.png">
+</div>
 
 As the final project for my software engineering class, we were tasked with creating a web application with a team made up of other classmates. We decided to create a web application for finding surf breaks in Hawaii, as it can be hard to find out where all the surfing spots are when you are new to the island. The website we created supported a directory of surf breaks, each with an image, type, location, difficulty, description, and an option to leave reviews. In addition, we had a page for new surfers to find surfing lessons, find a random break, see the most popular break (determined by the amount of views), and register their email with us so that we can send them news about updates for the website. To accomplish all of this, we used Meteor, React, Semantic UI, and MongoDB combined with agile project management.
 
 ## My Contribution
 
-<img class="ui medium left circular floated image" src="../images/directory.png">
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/directory.png">
+</div>
 
 My contributions to the project was mainly on the database side. I created the MongoDB collection that held all of the surf breaks, as well as created the directory page that displayed all of them. I created a field in each surf break that kept track of how many times it was directly viewed, which enabled us to create a page that displayed the most popular/most viewed surf break. In addition, I added features such as adding, editing, and deleting surf break in our collection, and these features were only available for users with the admin role. I created all these features with unit tests that helped in the CI/CD of our project.
 

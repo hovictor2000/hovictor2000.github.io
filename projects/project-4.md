@@ -34,6 +34,9 @@ My contributions to the project was mainly on the database side. I created the M
 This project taught me a lot about both web development and software engineering as a whole. The stack used in this project contains languages and frameworks used widely in the industry, and this project gave me an opportunity to really polish those skills. I started this project not knowing how to write unit tests, and being nervous about interacting with a database, but after writing many unit tests (and failing them), and working with the surf break collection extensively, I am much more confident in my skills. In addition, working with a team in this project provided valuable insight into how software engineering with a team is like. Working in a team provided many different dynamics that just aren't present when coding by yourself such as working with code you didn't write yourself, allocating tasks between group members, and helping/being helped by others. 
 
 Learn More -
+
+
+
 [GitHub.io page](https://surfers-spot.github.io/)
 
 
